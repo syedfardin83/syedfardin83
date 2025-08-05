@@ -36,7 +36,7 @@ I started coding when I was 13, driven by curiosity.
 - ⏳Data Structures and Algorithms - [Udemy](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/?couponCode=MT40825A)
 - 🛠 Ethical Hacking - [Udemy](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/?couponCode=MT40825A)
 
-## 📬 Contact Me
+## 📬 Social Media & Connections
 
 - 📧 Email: syedfardin0612@gmail.com
 - 💼 LinkedIn: [Syed Fardin](https://www.linkedin.com/in/syed-fardin-41ba36374/)
