@@ -8,12 +8,13 @@ I started coding when I was 13, driven by curiosity.
 
 ## 🚀Projects
 
-- ⚙️LarkOS 2 - A Free RTOS based *drone flight computer firmware* with PID control. ( [code](https://github.com/syedfardin83/Drone-EP1/tree/main/LarkOS/LOS2/LOS_2) )
-- 🖥Lark1 - An ESP32 based *drone flight computer board*. Designed in KiCad, made on perfboard.( [image](https://github.com/syedfardin83/Drone-EP1/blob/main/Images/Lark1.jpeg) )
-- 🖥Custom STM32 PCB design. ( [Kicad](https://github.com/syedfardin83/KiCad-Learning/tree/main/Udemy%20STM32/udemy_stm32_kicad) )
-- 🤖PyJarvis - Personal desktop assistant. ( [code](https://github.com/syedfardin83/pythonProjects/tree/main/jarvis%20project) )
-- 🕷PyBackdoor - Reverse TCP based python backdoor. ( [code](https://github.com/syedfardin83/python_backdoor_client/blob/main/main3.py) )
-- 🕷PyKeyLogger - A python key logger malware. ( [code](https://github.com/syedfardin83/key_logger/blob/main/key_logger.py) )
+- ⚙️ LarkOS 2 - A Free RTOS based *drone flight computer firmware* with PID control. ( [code](https://github.com/syedfardin83/Drone-EP1/tree/main/LarkOS/LOS2/LOS_2) )
+- 🖥 Lark1 - An ESP32 based *drone flight computer board*. Designed in KiCad, made on perfboard.( [image](https://github.com/syedfardin83/Drone-EP1/blob/main/Images/Lark1.jpeg) )
+- 🖥 Custom STM32 PCB design. ( [Kicad](https://github.com/syedfardin83/KiCad-Learning/tree/main/Udemy%20STM32/udemy_stm32_kicad) )
+- 🤖 PyJarvis - Personal desktop assistant. ( [code](https://github.com/syedfardin83/pythonProjects/tree/main/jarvis%20project) )
+- 🕷 PyBackdoor - Reverse TCP based python backdoor. ( [code](https://github.com/syedfardin83/python_backdoor_client/blob/main/main3.py) )
+- 🕷 PyKeyLogger - A python key logger malware. ( [code](https://github.com/syedfardin83/key_logger/blob/main/key_logger.py) )
+- 🌐 Text Utils - Full stack web application in MERN. ( [code](https://github.com/syedfardin83/TextUtils-React/tree/main) )
 
 
 ## 💻 Programming Languages & Skills
@@ -26,6 +27,7 @@ I started coding when I was 13, driven by curiosity.
 - 🔐 Cybersecurity — ARP spoofing, keyloggers, reverse TCP
 - 🧪 PCB Design — schematic capture, perfboard prototyping, soldering
 - 🐧 Linux (Kali) — ethical hacking, terminal proficiency
+- 🌐 Web Development - HTML, CSS, JavaScript, MERN(MongoDb, Express JS, React JS, Node JS)
 
 ## 📘Courses
 
