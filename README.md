@@ -22,7 +22,7 @@ I started coding when I was 13, driven by curiosity.
 - 🛠 C / C++ — embedded firmware, FreeRTOS, STM32 development
 - 📡 ESP32 & Arduino — real-time control, sensor interfacing
 - 🧠 FreeRTOS — task scheduling, semaphores, queues
-- 🧰 Tools — KiCad, Arduino IDE, Git, VS Code
+- 🧰 Tools — KiCad, Arduino IDE, Platform IO, Git, VS Code
 - 🔐 Cybersecurity — ARP spoofing, keyloggers, reverse TCP
 - 🧪 PCB Design — schematic capture, perfboard prototyping, soldering
 - 🐧 Linux (Kali) — ethical hacking, terminal proficiency
