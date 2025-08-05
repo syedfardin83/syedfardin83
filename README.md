@@ -2,7 +2,7 @@
 
 I'm a first-year ECE under-grad at PES University, Bangalore. 
 
-Though I have bit of experience in many domains, I am specifically interested in *embedded systems, real time firmware and secure hardware design, PCB design and also cyber security.*
+Though I have bit of experience in many domains, I am now interested in *embedded systems, real time firmware and secure hardware design, PCB design and also cyber security.*
 
 I started coding when I was 13, driven by curiosity.
 
