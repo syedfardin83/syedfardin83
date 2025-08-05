@@ -20,6 +20,7 @@ I started coding when I was 13, driven by curiosity.
 - Arduino
 - ESP32
 - KiCad
+- PCB Soldering
 - Kali Linux
 
 ## 📘Courses
