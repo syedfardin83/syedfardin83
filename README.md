@@ -25,7 +25,7 @@ I started coding when I was 13, driven by curiosity.
 - 🧠 FreeRTOS — task scheduling, semaphores, queues
 - 🧰 Tools — KiCad, Arduino IDE, Platform IO, Git, VS Code
 - 🔐 Cybersecurity — ARP spoofing, keyloggers, reverse TCP
-- 🧪 PCB Design — schematic capture, perfboard prototyping, soldering
+- 🧪 PCB Design — KiCad, schematic capture, perfboard prototyping, soldering
 - 🐧 Linux (Kali) — ethical hacking, terminal proficiency
 - 🌐 Web Development - HTML, CSS, JavaScript, MERN(MongoDb, Express JS, React JS, Node JS)
 
