@@ -6,6 +6,19 @@ Though I have bit of experience in many domains, I am now interested in *embedde
 
 I started coding when I was 13, driven by curiosity.
 
+## 💻 Programming Languages & Skills
+
+- 🧠 FreeRTOS — task scheduling, semaphores, queues
+- 📡 ESP32 & Arduino — real-time control, sensor interfacing
+- 🛠 C / C++ — embedded firmware, FreeRTOS, STM32 development
+- 🧪 PCB Design — KiCad, schematic capture, perfboard prototyping, soldering
+- 🧰 Tools — KiCad, Arduino IDE, Platform IO, Git, VS Code
+- 🔐 Cybersecurity — ARP spoofing, keyloggers, reverse TCP
+- 🐧 Linux (Kali) — ethical hacking, terminal proficiency
+- 🐍 Python — tkinter, scripting, automation, reverse shells, desktop assistants
+- 🌐 Web Development - HTML, CSS, JavaScript, MERN(MongoDb, Express JS, React JS, Node JS)
+
+
 ## 🚀Projects
 
 - ⚙️ LarkOS 2 - A Free RTOS based *drone flight computer firmware* with PID control. ( [code](https://github.com/syedfardin83/Drone-EP1/tree/main/LarkOS/LOS2/LOS_2) )
@@ -16,18 +29,6 @@ I started coding when I was 13, driven by curiosity.
 - 🕷 PyKeyLogger - A python key logger malware. ( [code](https://github.com/syedfardin83/key_logger/blob/main/key_logger.py) )
 - 🌐 Text Utils - Full stack web application in MERN. ( [code](https://github.com/syedfardin83/TextUtils-React/tree/main) )
 
-
-## 💻 Programming Languages & Skills
-
-- 🐍 Python — scripting, automation, reverse shells, desktop assistants
-- 🛠 C / C++ — embedded firmware, FreeRTOS, STM32 development
-- 📡 ESP32 & Arduino — real-time control, sensor interfacing
-- 🧠 FreeRTOS — task scheduling, semaphores, queues
-- 🧰 Tools — KiCad, Arduino IDE, Platform IO, Git, VS Code
-- 🔐 Cybersecurity — ARP spoofing, keyloggers, reverse TCP
-- 🧪 PCB Design — KiCad, schematic capture, perfboard prototyping, soldering
-- 🐧 Linux (Kali) — ethical hacking, terminal proficiency
-- 🌐 Web Development - HTML, CSS, JavaScript, MERN(MongoDb, Express JS, React JS, Node JS)
 
 ## 📘Courses
 
