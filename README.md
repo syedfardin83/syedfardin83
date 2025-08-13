@@ -34,7 +34,7 @@ I started coding when I was 13, driven by curiosity.
 - 🛠Free RTOS in ESP32 - [Youtube](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)
 - 🛠PCB designing in KiCad - [Udemy](https://www.udemy.com/course/learn-kicad-v6-and-stm32-hardware-design/)
 - ⏳Data Structures and Algorithms - [Udemy](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/?couponCode=MT40825A)
-- 🛠 Ethical Hacking - [Udemy](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/?couponCode=MT40825A)
+- 🛠 Ethical Hacking - [Certificate](https://www.udemy.com/certificate/UC-9e5a3c00-4764-4168-8fb6-03115033ab96/)
 
 ## 📬 Social Media & Connections
 
