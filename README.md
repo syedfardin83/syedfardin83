@@ -8,7 +8,7 @@ I started coding when I was 13, driven by curiosity.
 
 ## 💻 Programming Languages & Skills
 
-- 🧠 FreeRTOS — task scheduling, semaphores, queues
+- 🧠 FreeRTOS — task scheduling, semaphores, queues, timers, interrupts
 - 📡 ESP32 & Arduino — real-time control, sensor interfacing
 - 🛠 C / C++ — embedded firmware, FreeRTOS, STM32 development
 - 🧪 PCB Design — KiCad, schematic capture, perfboard prototyping, soldering
