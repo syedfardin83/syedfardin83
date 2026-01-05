@@ -9,8 +9,8 @@ I started coding when I was 13, driven by curiosity.
 ## 💻 Programming Languages & Skills
 
 - 🧠 FreeRTOS — task scheduling, semaphores, queues, timers, interrupts
+- 📡 STM32 - STM32L072 LoRa MCU, STM32 Cube IDE, STM32 Cube MX
 - 📡 ESP32 & Arduino — real-time control, sensor interfacing
-- 📡 STM32 - STM32L072 LoRa MCU, STM32 Cube IDE
 - 🛠 C / C++ — embedded firmware, FreeRTOS, STM32 development
 - 🧪 PCB Design — KiCad, schematic capture, perfboard prototyping, soldering
 - 🧰 Tools — KiCad, Arduino IDE, Platform IO, Git, VS Code
