@@ -23,8 +23,9 @@ I started coding when I was 13, driven by curiosity.
 ## 🚀Projects
 
 - ⚙️ LarkOS 2 - A Free RTOS based *drone flight computer firmware* with PID control. ( [code](https://github.com/syedfardin83/Drone-EP1/tree/main/LarkOS/LOS2/LOS_2) )
-- 🖥 Lark1 - An ESP32 based *drone flight computer board*. Designed in KiCad, made on perfboard.( [image](https://github.com/syedfardin83/Drone-EP1/blob/main/Images/Lark1.jpeg) )
+- 📟 Project Black Box - Embedded systems project on STM32. ([code](http://github.com/syedfardin83/black-box-stm32/))
 - 📟 I2C Library for STM32 for communication with MPU6050 IMU. ([code](https://github.com/syedfardin83/mpu6050-stm32))
+- 🖥 Lark1 - An ESP32 based *drone flight computer board*. Designed in KiCad, made on perfboard.( [image](https://github.com/syedfardin83/Drone-EP1/blob/main/Images/Lark1.jpeg) )
 - 🤖 Flood fill maze-solver algorithm on STM32. ([code](https://github.com/syedfardin83/maze-solver-stm32))
 - 🖥 Custom STM32 PCB design. ( [Kicad](https://github.com/syedfardin83/KiCad-Learning/tree/main/Udemy%20STM32/udemy_stm32_kicad) )
 - 🤖 PyJarvis - Personal desktop assistant. ( [code](https://github.com/syedfardin83/pythonProjects/tree/main/jarvis%20project) )
