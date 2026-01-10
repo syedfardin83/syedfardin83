@@ -49,4 +49,3 @@ I started coding when I was 13, driven by curiosity.
 - 📧 Email: syedfardin0612@gmail.com
 - 💼 LinkedIn: [Syed Fardin](https://www.linkedin.com/in/syed-fardin-41ba36374/)
 - 🐙 GitHub: [syedfardin83](https://github.com/syedfardin83)
-- 👽 Reddit: [ExplanationSilver810](https://www.reddit.com/user/ExplanationSilver810/)
