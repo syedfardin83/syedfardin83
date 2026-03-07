@@ -1,10 +1,14 @@
 ## 👋Hi, I'm Fardin 
 
-I'm a first-year ECE under-grad at PES University, Bangalore. 
+I'm an undergraduate student pursuing Electronics and Communication Engineering. 
 
-Though I have bit of experience in many domains, I am now interested in *embedded systems, real time firmware and secure hardware design, PCB design and also cyber security.*
+I am a deep-tech enthusiast focused on **embedded systems, real-time firmware, bare-metal development, and secure hardware design.**
 
-I started coding when I was 13, driven by curiosity.
+## 🏆 Open Source Contributions
+
+- **[libopencm3](https://github.com/libopencm3/libopencm3)**: Contributed hardware support for the **STM32L0** series.
+  - Implemented HSI (High Speed Internal) clock configuration presets for 16MHz and 32MHz operation.
+  - Fixed symbol visibility issues for RCC (Reset and Clock Control) structures.
 
 ## 💻 Programming Languages & Skills
 
@@ -37,6 +41,7 @@ I started coding when I was 13, driven by curiosity.
 
 ## 📘Courses and Learnings
 
+- Bare Metal Embedded Programming in STM32 and libopencm3 - [YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
 - 🛠Free RTOS in ESP32 - [Youtube](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz)
 - 🧑‍💻OS development using Assembly - [Udemy](https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/?couponCode=CP251118BG1)
 - 🖥️ARM Assembly - [Youtube](https://www.youtube.com/watch?v=gfmRrPjnEw4)
