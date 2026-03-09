@@ -27,7 +27,7 @@ I am a deep-tech enthusiast focused on **embedded systems, real-time firmware, b
 ## 🚀Projects
 
 - ⚙️ LarkOS 2 - A Free RTOS based *drone flight computer firmware* with PID control. ( [code](https://github.com/syedfardin83/Drone-EP1/tree/main/LarkOS/LOS2/LOS_2) )
-- - 🖥 Peach OS - Written in x86 Assembly, a basic terminal based OS for x86 Intel Processors.(still under development) [repo](https://github.com/syedfardin83/PeachOS)
+- 🖥 Peach OS - Written in x86 Assembly, a basic terminal based OS for x86 Intel Processors.(still under development) [repo](https://github.com/syedfardin83/PeachOS)
 - 📟 Project Black Box - Motion and gesture detection engine on STM32. ([code](http://github.com/syedfardin83/black-box-stm32/))
 - 📟 I2C Library for STM32 for communication with MPU6050 IMU. ([code](https://github.com/syedfardin83/mpu6050-stm32))
 - 🖥 Lark1 - An ESP32 based *drone flight computer board*. Designed in KiCad, made on perfboard.( [image](https://github.com/syedfardin83/Drone-EP1/blob/main/Images/Lark1.jpeg) )
